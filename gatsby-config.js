@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Melody Universe`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Melody Universe (she/they)`,
+      summary: ` a transfeminine vegan who plays Dungeons & Dragons and creates things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Melody Universe's personal website.`,
+    siteUrl: `https://melody-universe.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `melody_smellody`,
     },
   },
   plugins: [
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Melody Universe`,
+        short_name: `MUniverse`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
