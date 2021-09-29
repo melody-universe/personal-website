@@ -5,3 +5,7 @@ description: "I Think I Kenku"
 ---
 
 ## Catching Up
+
+### Isabella
+
+![Isabella](./isabella.png)

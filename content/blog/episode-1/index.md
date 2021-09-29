@@ -7,4 +7,17 @@ description: "Out With the Floon"
 ## Meeting at the Yawning Portal
 
 ### Judy Merrywood
+
 ![Judy Merrywood](./judy.png)
+
+### Gourdan
+
+![Gourdan](./gourdan.png)
+
+### Helena Brightwave
+
+![Helena Brightwave](./helena.png)
+
+### Gnard
+
+![Gnard](./gnard.png)
