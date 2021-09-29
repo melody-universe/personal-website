@@ -115,8 +115,8 @@ module.exports = {
         name: `Melody Universe`,
         short_name: `MUniverse`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#150a21`,
+        theme_color: `#f7dbf6`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },

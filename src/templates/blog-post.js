@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date} - {post.frontmatter.description}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -47,14 +47,14 @@ const BlogPostTemplate = ({ data, location }) => {
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                ← {previous.frontmatter.description.replace("Episode ", "")}. {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+                {next.frontmatter.description.replace("Episode ", "")}. {next.frontmatter.title} →
               </Link>
             )}
           </li>
@@ -93,6 +93,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        description
       }
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
@@ -101,6 +102,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        description
       }
     }
   }

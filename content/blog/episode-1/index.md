@@ -1,7 +1,7 @@
 ---
-title: Episode 1
+title: Out With the Floon
 date: "2021-08-31T18:00:00.000Z"
-description: "Out With the Floon"
+description: "Episode 1"
 ---
 
 ## Meeting at the Yawning Portal
