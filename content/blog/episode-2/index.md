@@ -15,4 +15,4 @@ All character graphics depicted in this episode were illustrated by [Olive Firbo
 
 ![Isabella](./isabella.png)
 
-Isabella is a 75 year-old rock gnome librarian; or at least, until recently. The owner of the library, a crotchety old man, just croaked and left instructions in his will to liquidate the entire library, leaving Isabella without a job. Honestly, this is all for the best; Isabella has spent years of her life pouring over books about magic and though she's admittedly a bit nervous about it, is excited to begin her new career as an adventurer.
+Isabella is a 75 year-old rock gnome librarian; or at least... she was... until recently. The owner of the library she worked at, a crotchety old man, finally croaked and left instructions in his will to liquidate the entire business, leaving Isabella without a job. Honestly, this is all for the best; Isabella has spent years of her life pouring over books about magic and though she's admittedly a bit nervous about it, is excited to begin her new career as an adventurer.
