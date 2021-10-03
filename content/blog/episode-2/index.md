@@ -7,7 +7,7 @@ description: "Episode 2"
 
 All character graphics depicted in this episode were illustrated by [Olive Firbolg](https://olivefirbolg.com).
 
-## The Dock Ward (cont.)
+## The Dock Ward *(continued)*
 
 - Just as the party showed up to the Zhentarim hideout, Judy got a call, a final responder from his Kraigsledger post. She had been texting him as the party walked to various locations in the Dock Ward, and he'd been updating her on their location.
 
